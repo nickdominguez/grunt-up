@@ -1,6 +1,11 @@
 body {
-	background-color: pink;
+	background-color: rgba(0,0,0,.1);
+  font-family: Georgia;
+  .container {
+    margin: 0 auto;
+    width: 768px;
+  }
 	h1 {
-		color: blue;
+		color: rgba(0,0,0,.9);
 	}
 }
